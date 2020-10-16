@@ -15,5 +15,5 @@
 - sea green hex: #02C0CE
 - pills background color: #E3EAEF
 - font type: Open Sans
-- report page, header styling gradient: linear-gradient(87deg, #11cdef 0, #1171ef 100%)
+- report page, header styling gradient: `linear-gradient(87deg, #11cdef 0, #1171ef 100%)`
 - icon set: [feathericons](feathericons.com)
